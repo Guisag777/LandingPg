@@ -1,0 +1,26 @@
+@font-face {
+    font-family: Caviar;
+    src: url(/componentes/Fontes/Caviar/CaviarDreams.ttf);
+}
+
+@font-face {
+    font-family: CaviarBold;
+    src: url(/componentes/Fontes/Caviar/CaviarDreams_Bold.ttf);
+}
+
+@font-face {
+    font-family: CaviarBoldIt;
+    src: url(/componentes/Fontes/Caviar/CaviarDreams_BoldItalic.ttf);
+}
+
+@font-face {
+    font-family: CaviarIt;
+    src: url(/componentes/Fontes/Caviar/CaviarDreams_Italic.ttf);
+}
+
+/*Red hand*/
+
+@font-face {
+    font-family: RedHands;
+    src: url(/componentes/Fontes/RedH/KGRedHands.ttf);
+}
